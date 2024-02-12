@@ -59,7 +59,7 @@ int main()
         cout << endl;
         for (int i = 0; i < maxRoutePoints.size(); ++i)
         {
-            cout << maxRoutePoints[i].col +1 << "," << maxRoutePoints[i].row + 1 << endl;
+            cout << maxRoutePoints[i].col +1 << ", " << maxRoutePoints[i].row + 1 << endl;
         }
     }
     auto stop = high_resolution_clock::now();
