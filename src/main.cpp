@@ -37,7 +37,8 @@ int main()
     {
         tucil = read_file();
     }
-
+    checkData(tucil);
+    
     vector<string> route;
     vector<Point> routePoints;
     vector<vector<bool>> visited(tucil.row, vector<bool>(tucil.col, false)); 

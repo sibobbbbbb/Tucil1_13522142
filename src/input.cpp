@@ -202,7 +202,6 @@ Tucil CLI()
     cin >> tucil.jumlah_sequence; 
     cout << "Masukkan sequence length: " << endl;
     cin >> tucil.sequence_length;
-    cout << endl;
     
     tucil.matriks = generateMatriks(tucil, token, jumlah_token_unik);
     tucil.sequence = generateSequence(tucil, token, jumlah_token_unik);
