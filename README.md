@@ -30,7 +30,10 @@ cd bin
 ```
 ./main
 ```
-5. The program will starting.
+5.The program will starting.
+
+## Note
+If you input using a file, place the file into the 'test' folder first to ensure accessibility.
 
 ## Developers
 
