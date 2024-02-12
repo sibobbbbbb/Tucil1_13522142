@@ -17,7 +17,7 @@ The rules of the Breach Protocol game include:
 6. Sequences have a minimum length of two tokens.
 
 ## Requirement
-Install c++
+C++
 
 ## How to Run?
 
